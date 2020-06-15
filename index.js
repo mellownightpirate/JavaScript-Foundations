@@ -20,6 +20,9 @@ const name = "Amin Hasan";
 (2) Create another variable called `periods` and give it the value of years*12.
 */
 
+let monthlyInterestRate = interestRate / 12;
+let periods = years * 12;
+
 
 
 
